@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @seagull
+- 👋 Hi, I’m seagull
 - 👀 I’m interested in USB communication project
 - 🌱 I’m currently learning embeded USB driver
 - 💞️ I’m looking to collaborate on USB project
