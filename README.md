@@ -1,7 +1,7 @@
 - 👋 Hi, I’m seagull
-- 👀 I’m interested in USB communication project
-- 🌱 I’m currently learning embeded USB driver
-- 💞️ I’m looking to collaborate on USB project
+- 👀 I’m interested in ESP32 project
+- 🌱 I’m currently learning ESP32 for child education
+- 💞️ I’m looking to collaborate on ESP32 project
 - 📫 My email: 594942001@qq.com
 
 <!---
